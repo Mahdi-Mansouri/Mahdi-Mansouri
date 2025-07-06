@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Mahid Mansouri!
 
-## 😄 About Me
+## About Me
 I am currently a **Computer Engineering Student** at Sharif University of Technology. I have a deep passion for **Generative Models**, **Deep Learning**, and **Reinforcement Learning**.
 
 - 🌱 I’m currently learning about generative models for 3D data.
